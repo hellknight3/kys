@@ -29,6 +29,8 @@ gem 'tzinfo-data'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# Calendar
+gem 'fullcalendar-rails'
 # Use unicorn as the app server
 # gem 'unicorn'
 
